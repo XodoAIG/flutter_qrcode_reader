@@ -17,7 +17,6 @@
             android:layout_gravity="center"
             android:indeterminate="true"
             android:indeterminateTint="#FFFFFFFF"
-            android:indeterminateTintMode="src_in"
-            android:visibility="gone"/>
+            android:indeterminateTintMode="src_in" />
    </FrameLayout>
 </android.support.constraint.ConstraintLayout>
